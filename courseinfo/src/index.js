@@ -48,7 +48,6 @@ const Content = props => {
 };
 
 const Part = props => {
-    console.log(props);
     return (
         <>
             <p>
